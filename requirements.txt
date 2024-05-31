@@ -1,0 +1,5 @@
+atoma
+requests
+flask
+python-dotenv
+tabulate
